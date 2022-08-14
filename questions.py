@@ -4,7 +4,7 @@ import random
 f = open('questions.json')
 
 questions_dict = json.load(f)
-all_the_questions = list(questioms_dict["questions_list"])
+all_the_questions = list(questions_dict["questions_list"])
 
 
 """ Fetch a random question array from the data  
