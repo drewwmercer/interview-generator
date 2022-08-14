@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Random Interview Questions | Drew W Mercer</title>
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic' rel='stylesheet'
+        type='text/css'>
+    <link rel="stylesheet" href="../static/normalize.css">
+    <link rel="stylesheet" href="../static/styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="question-box">
+
+            <p class="question">{{ questions_list['question'] }}</p>
+            <p class="source">{{ questions_list['source'] }}<span class="citation">{{ questions_list['citation']
+                    }}</span><span class="year">{{ questions_list['year'] }}</span></p>
+
+        </div>
+        <button id="loadQuestion" onclick="window.location.reload(true)">Show new question</button>
+    </div>
+</body>
+
+</html>
