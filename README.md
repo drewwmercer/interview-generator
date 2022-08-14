@@ -22,7 +22,7 @@ I created the requirements.txt file using the pip freeze command.
 Install all dependencies from the requirements.txt file.
 
 ```
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 Run the app.py file
