@@ -45,7 +45,7 @@ body {
   position: absolute;
 }
 
-.source {
+.interview {
   font-size: 1.35rem;
   letter-spacing: 0.05em;
   line-height: 1.1;
@@ -53,15 +53,15 @@ body {
   margin-right: 4em;
 }
 
-.source:before {
+.interview:before {
   content: "—";
 }
 
-.citation {
+.system {
   font-style: italic;
 }
 
-.citation:before {
+.system:before {
   content: ", ";
   font-style: normal;
 }
@@ -99,7 +99,7 @@ body {
   .question:after {
     font-size: 3rem;
   }
-  .source {
+  .interview {
     font-size: 1rem;
   }
 }
