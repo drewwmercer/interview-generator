@@ -35,6 +35,54 @@
       "interview": "Miss America's Outstanding Teen - Private Interview",
       "system": "Miss America's Outstanding Teen",
       "year": "2019"
+    },
+    {
+      "question": "Have you heard of a deep fake, and what is your opinion on that?",
+      "interview": "Miss Tennessee's Outstanding Teen - Private Interview",
+      "system": "Miss America's Outstanding Teen",
+      "year": "2021"
+    },
+    {
+      "question": "Should America lower the legal age for drinking alcohol?",
+      "interview": "Miss America - Private Interview",
+      "system": "Miss America",
+      "year": "2006"
+    },
+    {
+      "question": "Do you think you could be a successful fundraiser for this organization?",
+      "interview": "Miss America - Private Interview",
+      "system": "Miss America",
+      "year": "2006"
+    },
+    {
+      "question": "How do you feel about socialized medicine, and how can it impact poverty in this nation?",
+      "interview": "Miss America - Private Interview",
+      "system": "Miss America",
+      "year": "2006"
+    },
+    {
+      "question": "Is America ready for a female president?",
+      "interview": "Miss America - Private Interview",
+      "system": "Miss America",
+      "year": "2006"
+    },
+    {
+      "question": "What is your favorite novel?",
+      "interview": "Miss America - Private Interview",
+      "system": "Miss America",
+      "year": "2006"
+    },
+    {
+      "question": "Gun violence continues to be a tragic problem in America. Do you support a ban on military-style assault weapons?",
+      "interview": "Miss America - On-Stage Interview",
+      "system": "Miss America",
+      "year": "2016"
+    },
+    {
+      "question": "What can encourage women to become more involved in STEM education?",
+      "interview": "Miss Arizona - Private Interview",
+      "system": "Miss America",
+      "year": "2016"
     }
   ]
 }
