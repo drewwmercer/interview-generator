@@ -12,7 +12,7 @@ all_the_questions = list(questions_dict["questions_list"])
 
 
 def getRandomQuestion(questions_list):
-    random_num = random.randint(0, 5)
+    random_num = random.randint(0, 13)
     question_obj = questions_list[random_num]
     return question_obj
 
