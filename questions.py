@@ -10,7 +10,7 @@ all_the_questions = list(questions_dict["questions_list"])
 """ Fetch a random question array from the data  
     and return it """
 
-
+# TODO - need to make this better
 def getRandomQuestion(questions_list):
     random_num = random.randint(0, 14)
     question_obj = questions_list[random_num]
